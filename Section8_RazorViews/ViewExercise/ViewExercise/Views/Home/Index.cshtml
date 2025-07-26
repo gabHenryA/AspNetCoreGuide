@@ -1,0 +1,57 @@
+﻿@model IEnumerable<CityWeather>;
+
+@{
+	string SetBackGroundColor(int fahrenheint)
+	{
+		if(fahrenheint < 44)
+		{
+			return "blue-back";
+		}
+		else if(fahrenheint >= 44 && fahrenheint <= 74)
+		{
+			return "green-back";
+		}
+		else
+		{
+			return "orange-back";
+		}
+	}
+}
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cities Weather</title>
+		<meta charset="utf-8"/>
+		<link href="~/StyleSheet.css" rel="stylesheet"/>
+	</head>
+
+	<body class="body">
+		<div class="page-content">
+			<h1>Weather</h1>
+			<div class="flex margin-top-200">
+				@foreach (CityWeather city in Model)
+				{
+					<div class="box w-30 @SetBackGroundColor(city.TemperatureFahrenheint)">
+
+						<table>
+							<tbody>
+								<tr>
+									<td>
+										<h2>@city.CityName</h2>
+										<h4 class="text-dark-grey">@city.DateAndTime.ToString("t")</h4>
+										<a href="/weather/@city.CityUniqueCode">Details</a>
+									</td>
+									<td class="border-left padding-left margin-left">
+										<h1>@city.TemperatureFahrenheint <span class="text-grey">°F</span></h1>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				}
+			</div>
+		
+		</div>
+	</body>
+</html>

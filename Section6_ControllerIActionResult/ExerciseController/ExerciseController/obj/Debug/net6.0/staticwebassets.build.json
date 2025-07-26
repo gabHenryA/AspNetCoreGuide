@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "4xbHml+B48DvAa618Y7DAel0CeYhK30+XuQGL6LMGuw=",
+  "Source": "ExerciseController",
+  "BasePath": "_content/ExerciseController",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ExerciseController\\wwwroot",
+      "Source": "ExerciseController",
+      "ContentRoot": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ExerciseController\\ExerciseController\\wwwroot\\",
+      "BasePath": "_content/ExerciseController",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ExerciseController\\ExerciseController\\wwwroot\\BANK.pdf",
+      "SourceId": "ExerciseController",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ExerciseController\\ExerciseController\\wwwroot\\",
+      "BasePath": "_content/ExerciseController",
+      "RelativePath": "BANK#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yt49b9ctik",
+      "Integrity": "StBbEza37jyl55Y9H5duyMBKzzbWySMFyC3IFibfd10=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\BANK.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "BANK.pdf",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ExerciseController\\ExerciseController\\wwwroot\\BANK.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180973"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"StBbEza37jyl55Y9H5duyMBKzzbWySMFyC3IFibfd10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:43:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-StBbEza37jyl55Y9H5duyMBKzzbWySMFyC3IFibfd10="
+        }
+      ]
+    },
+    {
+      "Route": "BANK.yt49b9ctik.pdf",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ExerciseController\\ExerciseController\\wwwroot\\BANK.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180973"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"StBbEza37jyl55Y9H5duyMBKzzbWySMFyC3IFibfd10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:43:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yt49b9ctik"
+        },
+        {
+          "Name": "label",
+          "Value": "BANK.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-StBbEza37jyl55Y9H5duyMBKzzbWySMFyC3IFibfd10="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+wwwroot\friends.js
+wwwroot\StyleSheet.css

@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02FDCCD7-EF3C-44D7-BED5-2012A2BBA168}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\iactionresultexample\\iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FDCCD7-EF3C-44D7-BED5-2012A2BBA168}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FDCCD7-EF3C-44D7-BED5-2012A2BBA168}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\iactionresultexample\\iactionresultexample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FDCCD7-EF3C-44D7-BED5-2012A2BBA168}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FDCCD7-EF3C-44D7-BED5-2012A2BBA168}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\iactionresultexample\\iactionresultexample\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FDCCD7-EF3C-44D7-BED5-2012A2BBA168}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FDCCD7-EF3C-44D7-BED5-2012A2BBA168}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\iactionresultexample\\iactionresultexample\\iactionresultexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02FDCCD7-EF3C-44D7-BED5-2012A2BBA168}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\iactionresultexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FDCCD7-EF3C-44D7-BED5-2012A2BBA168}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\iactionresultexample\\iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FDCCD7-EF3C-44D7-BED5-2012A2BBA168}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\IActionResultExample\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\IActionResultExample\\Models\\Book.cs",
+              "RelativeToolTip": "IActionResultExample\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:46:20.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\IActionResultExample\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\IActionResultExample\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "IActionResultExample\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:19:00.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\IActionResultExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\IActionResultExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IActionResultExample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T22:49:28.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IActionResultExample.csproj",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\IActionResultExample\\IActionResultExample.csproj",
+              "RelativeDocumentMoniker": "IActionResultExample\\IActionResultExample.csproj",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\IActionResultExample\\IActionResultExample.csproj",
+              "RelativeToolTip": "IActionResultExample\\IActionResultExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T22:48:17.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\IActionResultExample\\Program.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\Program.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\IActionResultExample\\Program.cs",
+              "RelativeToolTip": "IActionResultExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T22:47:00.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

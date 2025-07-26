@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "JMXqpWkxQs8WZCy35+wASMF/h35p7+JkHwxdWRoanfE=",
+  "Source": "ConfigurationExercise1",
+  "BasePath": "_content/ConfigurationExercise1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ConfigurationExercise1\\wwwroot",
+      "Source": "ConfigurationExercise1",
+      "ContentRoot": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\wwwroot\\",
+      "BasePath": "_content/ConfigurationExercise1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\wwwroot\\StyleSheet.css",
+      "SourceId": "ConfigurationExercise1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\wwwroot\\",
+      "BasePath": "_content/ConfigurationExercise1",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gnsd5elkzt",
+      "Integrity": "TD/fk8+BPcVWCDocLkEheqNS28tYCsh99r+smMthsMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TD/fk8+BPcVWCDocLkEheqNS28tYCsh99r+smMthsMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 18:09:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TD/fk8+BPcVWCDocLkEheqNS28tYCsh99r+smMthsMk="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.gnsd5elkzt.css",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TD/fk8+BPcVWCDocLkEheqNS28tYCsh99r+smMthsMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 18:09:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gnsd5elkzt"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TD/fk8+BPcVWCDocLkEheqNS28tYCsh99r+smMthsMk="
+        }
+      ]
+    }
+  ]
+}

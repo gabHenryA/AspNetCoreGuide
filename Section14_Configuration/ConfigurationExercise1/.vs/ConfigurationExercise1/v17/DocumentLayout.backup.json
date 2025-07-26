@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\configurationexercise1\\configurationexercise1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|solutionrelative:configurationexercise1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\configurationexercise1\\configurationexercise1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|solutionrelative:configurationexercise1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\configurationexercise1\\configurationexercise1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|solutionrelative:configurationexercise1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\configurationexercise1\\configurationexercise1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|solutionrelative:configurationexercise1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\configurationexercise1\\configurationexercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|solutionrelative:configurationexercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\configurationexercise1\\configurationexercise1\\socialmedialinksoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|solutionrelative:configurationexercise1\\socialmedialinksoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\configurationexercise1\\configurationexercise1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|solutionrelative:configurationexercise1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\configurationexercise1\\configurationexercise1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|solutionrelative:configurationexercise1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\configurationexercise1\\configurationexercise1\\configurationexercise1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95D39E53-AC6F-4EAB-A858-E74A2CCC8B3E}|ConfigurationExercise1\\ConfigurationExercise1.csproj|solutionrelative:configurationexercise1\\configurationexercise1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConfigurationExercise1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ConfigurationExercise1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T18:38:26.563Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ConfigurationExercise1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ConfigurationExercise1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T18:56:38.043Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ConfigurationExercise1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ConfigurationExercise1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T18:36:35.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SocialMediaLinksOptions.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\SocialMediaLinksOptions.cs",
+              "RelativeDocumentMoniker": "ConfigurationExercise1\\SocialMediaLinksOptions.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\SocialMediaLinksOptions.cs",
+              "RelativeToolTip": "ConfigurationExercise1\\SocialMediaLinksOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:17:49.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ConfigurationExercise1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\appsettings.Development.json",
+              "RelativeToolTip": "ConfigurationExercise1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T18:13:57.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\appsettings.json",
+              "RelativeDocumentMoniker": "ConfigurationExercise1\\appsettings.json",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\appsettings.json",
+              "RelativeToolTip": "ConfigurationExercise1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T18:11:26.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ConfigurationExercise1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ConfigurationExercise1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:10:48.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfigurationExercise1.csproj",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\ConfigurationExercise1.csproj",
+              "RelativeDocumentMoniker": "ConfigurationExercise1\\ConfigurationExercise1.csproj",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\ConfigurationExercise1.csproj",
+              "RelativeToolTip": "ConfigurationExercise1\\ConfigurationExercise1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T18:09:32.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\Program.cs",
+              "RelativeDocumentMoniker": "ConfigurationExercise1\\Program.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\Program.cs",
+              "RelativeToolTip": "ConfigurationExercise1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:07:19.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

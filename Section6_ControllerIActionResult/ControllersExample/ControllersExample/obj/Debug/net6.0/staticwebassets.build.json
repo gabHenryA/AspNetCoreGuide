@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "tHKIyuMV2MSNFQ/fSRZUywh2XPkFSdNwD+9QBjrAh50=",
+  "Source": "ControllersExample",
+  "BasePath": "_content/ControllersExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllersExample\\wwwroot",
+      "Source": "ControllersExample",
+      "ContentRoot": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ControllersExample\\ControllersExample\\wwwroot\\",
+      "BasePath": "_content/ControllersExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ControllersExample\\ControllersExample\\wwwroot\\_MG_0476.jpg",
+      "SourceId": "ControllersExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ControllersExample\\ControllersExample\\wwwroot\\",
+      "BasePath": "_content/ControllersExample",
+      "RelativePath": "_MG_0476#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "blkbhafczm",
+      "Integrity": "/0Uuq1fDJYZPqJRnx67iXwbtv/1A8P1BTIyu4Hs4zN4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\_MG_0476.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ControllersExample\\ControllersExample\\wwwroot\\Ficha.pdf",
+      "SourceId": "ControllersExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ControllersExample\\ControllersExample\\wwwroot\\",
+      "BasePath": "_content/ControllersExample",
+      "RelativePath": "Ficha#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ykpjuwhmv",
+      "Integrity": "tV6BI17A4mmsylCRVo4gEnI7N9MIEk3gecnJJ1aeThs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Ficha.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_MG_0476.blkbhafczm.jpg",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ControllersExample\\ControllersExample\\wwwroot\\_MG_0476.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3604888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/0Uuq1fDJYZPqJRnx67iXwbtv/1A8P1BTIyu4Hs4zN4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Mar 2023 01:54:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "blkbhafczm"
+        },
+        {
+          "Name": "label",
+          "Value": "_MG_0476.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/0Uuq1fDJYZPqJRnx67iXwbtv/1A8P1BTIyu4Hs4zN4="
+        }
+      ]
+    },
+    {
+      "Route": "_MG_0476.jpg",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ControllersExample\\ControllersExample\\wwwroot\\_MG_0476.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3604888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/0Uuq1fDJYZPqJRnx67iXwbtv/1A8P1BTIyu4Hs4zN4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Mar 2023 01:54:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/0Uuq1fDJYZPqJRnx67iXwbtv/1A8P1BTIyu4Hs4zN4="
+        }
+      ]
+    },
+    {
+      "Route": "Ficha.3ykpjuwhmv.pdf",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ControllersExample\\ControllersExample\\wwwroot\\Ficha.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1594562"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tV6BI17A4mmsylCRVo4gEnI7N9MIEk3gecnJJ1aeThs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Sep 2023 04:13:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ykpjuwhmv"
+        },
+        {
+          "Name": "label",
+          "Value": "Ficha.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tV6BI17A4mmsylCRVo4gEnI7N9MIEk3gecnJJ1aeThs="
+        }
+      ]
+    },
+    {
+      "Route": "Ficha.pdf",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ControllersExample\\ControllersExample\\wwwroot\\Ficha.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1594562"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tV6BI17A4mmsylCRVo4gEnI7N9MIEk3gecnJJ1aeThs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Sep 2023 04:13:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tV6BI17A4mmsylCRVo4gEnI7N9MIEk3gecnJJ1aeThs="
+        }
+      ]
+    }
+  ]
+}

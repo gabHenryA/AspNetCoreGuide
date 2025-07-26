@@ -1,0 +1,22 @@
+﻿@{
+	ViewBag.Title = "About";
+}
+
+<h1>About</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus commodo turpis quis mollis. Donec justo risus, sodales et fermentum et, lacinia sed ex. Sed malesuada erat vitae mauris venenatis bibendum. In placerat, nisi a sagittis iaculis, arcu dolor viverra risus, a efficitur urna ante ut mauris. Aenean ut quam vitae libero mollis maximus. Integer euismod non ante tincidunt commodo. Suspendisse pharetra est velit, ut iaculis eros egestas in. Vivamus maximus ligula ut sagittis placerat. Mauris vel nulla aliquam, porttitor ipsum quis, sodales diam. In blandit tellus elit, sit amet rhoncus justo dignissim in. Cras blandit iaculis finibus.</p>
+
+@{
+	PersonGridModel personGridModel = new PersonGridModel()
+    {
+        GridTitle = "Persons List",
+        Persons = new List<Person>()
+        {
+            new Person() { PersonName = "Joseph", JobTitle = "Developer" },
+            new Person(){ PersonName = "Jonathan", JobTitle = "UI" },
+            new Person(){ PersonName = "Jotaro", JobTitle = "QA" }
+        }
+    };
+}
+
+<vc:grid grid="personGridModel"></vc:grid>

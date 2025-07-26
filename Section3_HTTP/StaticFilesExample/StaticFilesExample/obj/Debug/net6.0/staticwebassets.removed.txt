@@ -1,0 +1,1 @@
+C:\Users\smo computadores\Documents\PDE\Programação\CSHARP\AspNetCore9Udemy\StaticFilesExample\StaticFilesExample\wwwroot\text-file.txt

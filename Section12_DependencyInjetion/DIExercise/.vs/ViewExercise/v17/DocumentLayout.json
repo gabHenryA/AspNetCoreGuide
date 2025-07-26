@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2094CD4-A447-4C25-B715-E2D05E26D03B}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\servicecontracts\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2094CD4-A447-4C25-B715-E2D05E26D03B}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977FF833-E0F4-452D-93F1-D5E991545DA0}|Services\\Services.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977FF833-E0F4-452D-93F1-D5E991545DA0}|Services\\Services.csproj|solutionrelative:services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858F8A1F-3601-48BD-9C66-1C94532E52C4}|Models\\Models.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\models\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858F8A1F-3601-48BD-9C66-1C94532E52C4}|Models\\Models.csproj|solutionrelative:models\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\viewexercise\\views\\shared\\components\\cityweather\\city.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\views\\shared\\components\\cityweather\\city.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\viewexercise\\viewcomponents\\cityweatherviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\viewcomponents\\cityweatherviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\viewexercise\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\viewexercise\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\viewexercise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\viewexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\viewexercise\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\viewexercise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\viewexercise\\views\\shared\\_weatherpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\views\\shared\\_weatherpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\viewexercise\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977FF833-E0F4-452D-93F1-D5E991545DA0}|Services\\Services.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{977FF833-E0F4-452D-93F1-D5E991545DA0}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\viewexercise\\viewexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\viewexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\diexercise\\viewexercise\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{32FCE87A-3655-48DA-9637-E6B899926CB7}|ViewExercise\\ViewExercise.csproj|solutionrelative:viewexercise\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityWeather.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\Models\\Models\\CityWeather.cs",
+              "RelativeDocumentMoniker": "Models\\Models\\CityWeather.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\Models\\Models\\CityWeather.cs",
+              "RelativeToolTip": "Models\\Models\\CityWeather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T23:02:46.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Services",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T22:45:02.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ServiceContracts\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ServiceContracts\\IWeatherService.cs",
+              "RelativeToolTip": "ServiceContracts\\IWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:18:45.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\Services\\WeatherService.cs",
+              "RelativeToolTip": "Services\\WeatherService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:15:31.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "City.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Views\\Shared\\Components\\CityWeather\\City.cshtml",
+              "RelativeDocumentMoniker": "ViewExercise\\Views\\Shared\\Components\\CityWeather\\City.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Views\\Shared\\Components\\CityWeather\\City.cshtml",
+              "RelativeToolTip": "ViewExercise\\Views\\Shared\\Components\\CityWeather\\City.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T15:27:02.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityWeatherViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\ViewComponents\\CityWeatherViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewExercise\\ViewComponents\\CityWeatherViewComponent.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\ViewComponents\\CityWeatherViewComponent.cs",
+              "RelativeToolTip": "ViewExercise\\ViewComponents\\CityWeatherViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:22:07.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ViewExercise\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ViewExercise\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T01:18:19.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_WeatherPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Views\\Shared\\_WeatherPartialView.cshtml",
+              "RelativeDocumentMoniker": "ViewExercise\\Views\\Shared\\_WeatherPartialView.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Views\\Shared\\_WeatherPartialView.cshtml",
+              "RelativeToolTip": "ViewExercise\\Views\\Shared\\_WeatherPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T01:16:53.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ViewExercise\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ViewExercise\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T02:31:35.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ViewExercise\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ViewExercise\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T01:52:47.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "ViewExercise\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "ViewExercise\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T20:06:56.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\wwwroot\\StyleSheet.css",
+              "RelativeDocumentMoniker": "ViewExercise\\wwwroot\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\wwwroot\\StyleSheet.css",
+              "RelativeToolTip": "ViewExercise\\wwwroot\\StyleSheet.css",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAAAEEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-14T18:04:27.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewExercise\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewExercise\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T18:24:08.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewExercise\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewExercise\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:06:34.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewExercise.csproj",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\ViewExercise.csproj",
+              "RelativeDocumentMoniker": "ViewExercise\\ViewExercise.csproj",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\ViewExercise.csproj",
+              "RelativeToolTip": "ViewExercise\\ViewExercise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T18:03:38.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Program.cs",
+              "RelativeDocumentMoniker": "ViewExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\DIExercise\\ViewExercise\\Program.cs",
+              "RelativeToolTip": "ViewExercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:00:59.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

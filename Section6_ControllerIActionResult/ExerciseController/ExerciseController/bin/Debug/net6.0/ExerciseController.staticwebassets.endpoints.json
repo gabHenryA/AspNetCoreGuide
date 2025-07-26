@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "BANK.pdf",
+      "AssetFile": "BANK.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180973"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"StBbEza37jyl55Y9H5duyMBKzzbWySMFyC3IFibfd10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:43:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-StBbEza37jyl55Y9H5duyMBKzzbWySMFyC3IFibfd10="
+        }
+      ]
+    },
+    {
+      "Route": "BANK.yt49b9ctik.pdf",
+      "AssetFile": "BANK.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180973"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"StBbEza37jyl55Y9H5duyMBKzzbWySMFyC3IFibfd10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:43:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yt49b9ctik"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-StBbEza37jyl55Y9H5duyMBKzzbWySMFyC3IFibfd10="
+        },
+        {
+          "Name": "label",
+          "Value": "BANK.pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "Z2EZtAij0c5yvEUMPGM8HUq8cR56nkJeZBx3GV24RzM=",
+  "Source": "ConfigurationExercise2",
+  "BasePath": "_content/ConfigurationExercise2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ConfigurationExercise2\\wwwroot",
+      "Source": "ConfigurationExercise2",
+      "ContentRoot": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise2\\ConfigurationExercise2\\wwwroot\\",
+      "BasePath": "_content/ConfigurationExercise2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise2\\ConfigurationExercise2\\wwwroot\\Scripts\\StockPrice.js",
+      "SourceId": "ConfigurationExercise2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise2\\ConfigurationExercise2\\wwwroot\\",
+      "BasePath": "_content/ConfigurationExercise2",
+      "RelativePath": "Scripts/StockPrice#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0rlfaa7wq",
+      "Integrity": "8UwD+lggtEii6wg1JzDtOJNL40sWiCWmuPicIXJJymU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\StockPrice.js"
+    },
+    {
+      "Identity": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise2\\ConfigurationExercise2\\wwwroot\\StockPriceUpdate.js",
+      "SourceId": "ConfigurationExercise2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise2\\ConfigurationExercise2\\wwwroot\\",
+      "BasePath": "_content/ConfigurationExercise2",
+      "RelativePath": "StockPriceUpdate#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3r8b2a0bt1",
+      "Integrity": "8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StockPriceUpdate.js"
+    },
+    {
+      "Identity": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise2\\ConfigurationExercise2\\wwwroot\\StyleSheet.css",
+      "SourceId": "ConfigurationExercise2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise2\\ConfigurationExercise2\\wwwroot\\",
+      "BasePath": "_content/ConfigurationExercise2",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "okagqheipi",
+      "Integrity": "iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Scripts/StockPrice.js",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise2\\ConfigurationExercise2\\wwwroot\\Scripts\\StockPrice.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8UwD+lggtEii6wg1JzDtOJNL40sWiCWmuPicIXJJymU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 20:21:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8UwD+lggtEii6wg1JzDtOJNL40sWiCWmuPicIXJJymU="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/StockPrice.v0rlfaa7wq.js",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise2\\ConfigurationExercise2\\wwwroot\\Scripts\\StockPrice.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8UwD+lggtEii6wg1JzDtOJNL40sWiCWmuPicIXJJymU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Jun 2025 20:21:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0rlfaa7wq"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/StockPrice.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8UwD+lggtEii6wg1JzDtOJNL40sWiCWmuPicIXJJymU="
+        }
+      ]
+    },
+    {
+      "Route": "StockPriceUpdate.3r8b2a0bt1.js",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise2\\ConfigurationExercise2\\wwwroot\\StockPriceUpdate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 19:39:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3r8b2a0bt1"
+        },
+        {
+          "Name": "label",
+          "Value": "StockPriceUpdate.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
+    {
+      "Route": "StockPriceUpdate.js",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise2\\ConfigurationExercise2\\wwwroot\\StockPriceUpdate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 19:39:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise2\\ConfigurationExercise2\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 04:20:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.okagqheipi.css",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise2\\ConfigurationExercise2\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Jun 2025 04:20:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "okagqheipi"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg="
+        }
+      ]
+    }
+  ]
+}

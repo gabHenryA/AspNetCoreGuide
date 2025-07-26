@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4369209-83C9-4E2C-942E-A206EF1EF881}|CRUDTests\\CRUDTests.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\crudexample\\crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4369209-83C9-4E2C-942E-A206EF1EF881}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFC74D9-6506-40A6-8945-EB88D6C601F2}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\crudexample\\servicecontracts\\enums\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFC74D9-6506-40A6-8945-EB88D6C601F2}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\enums\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFC74D9-6506-40A6-8945-EB88D6C601F2}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\crudexample\\servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFC74D9-6506-40A6-8945-EB88D6C601F2}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84436285-C02D-42FF-B152-25219FAD326C}|Entities\\Entities.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\crudexample\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84436285-C02D-42FF-B152-25219FAD326C}|Entities\\Entities.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFC74D9-6506-40A6-8945-EB88D6C601F2}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\crudexample\\servicecontracts\\dto\\personaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFC74D9-6506-40A6-8945-EB88D6C601F2}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFC74D9-6506-40A6-8945-EB88D6C601F2}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\crudexample\\servicecontracts\\dto\\countryaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFC74D9-6506-40A6-8945-EB88D6C601F2}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\countryaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFC74D9-6506-40A6-8945-EB88D6C601F2}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\crudexample\\servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFC74D9-6506-40A6-8945-EB88D6C601F2}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96153B1-B557-4CD1-B583-6DF404C21401}|Services\\Services.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\crudexample\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96153B1-B557-4CD1-B583-6DF404C21401}|Services\\Services.csproj|solutionrelative:services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFC74D9-6506-40A6-8945-EB88D6C601F2}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\crudexample\\servicecontracts\\dto\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFC74D9-6506-40A6-8945-EB88D6C601F2}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84436285-C02D-42FF-B152-25219FAD326C}|Entities\\Entities.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\crudexample\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84436285-C02D-42FF-B152-25219FAD326C}|Entities\\Entities.csproj|solutionrelative:entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4369209-83C9-4E2C-942E-A206EF1EF881}|CRUDTests\\CRUDTests.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\crudexample\\crudtests\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4369209-83C9-4E2C-942E-A206EF1EF881}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4369209-83C9-4E2C-942E-A206EF1EF881}|CRUDTests\\CRUDTests.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\crudexample\\crudtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4369209-83C9-4E2C-942E-A206EF1EF881}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0597EB7-C399-41DB-A904-D7EAC6EA3E0C}|CRUDExample\\CRUDExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\crudexample\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0597EB7-C399-41DB-A904-D7EAC6EA3E0C}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenderOptions.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\ServiceContracts\\Enums\\GenderOptions.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Enums\\GenderOptions.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\ServiceContracts\\Enums\\GenderOptions.cs",
+              "RelativeToolTip": "ServiceContracts\\Enums\\GenderOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:04:42.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonAddRequest.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:02:36.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\Entities\\Person.cs",
+              "RelativeToolTip": "Entities\\Person.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:57:09.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountriesService.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\Services\\CountriesService.cs",
+              "RelativeDocumentMoniker": "Services\\CountriesService.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\Services\\CountriesService.cs",
+              "RelativeToolTip": "Services\\CountriesService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T17:06:41.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\CountryResponse.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\CountryResponse.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:11:42.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryAddRequest.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:03:51.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\CRUDTests\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\CountriesServiceTest.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\CRUDTests\\CountriesServiceTest.cs",
+              "RelativeToolTip": "CRUDTests\\CountriesServiceTest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwFAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:45:19.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonResponse.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonResponse.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonResponse.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:11:03.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICountriesService.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\ServiceContracts\\ICountriesService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\ICountriesService.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\ServiceContracts\\ICountriesService.cs",
+              "RelativeToolTip": "ServiceContracts\\ICountriesService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:02:00.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\Entities\\Country.cs",
+              "RelativeToolTip": "Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:55:59.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\CRUDTests\\MyMath.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\MyMath.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\CRUDTests\\MyMath.cs",
+              "RelativeToolTip": "CRUDTests\\MyMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:51:22.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\CRUDTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\CRUDTests\\UnitTest1.cs",
+              "RelativeToolTip": "CRUDTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:35:52.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\CRUDExample\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\CRUDExample\\CRUDExample\\Program.cs",
+              "RelativeToolTip": "CRUDExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:28:36.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

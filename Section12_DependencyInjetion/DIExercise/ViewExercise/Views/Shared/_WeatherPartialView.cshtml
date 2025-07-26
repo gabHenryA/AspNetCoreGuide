@@ -1,0 +1,22 @@
+﻿@model CityWeather
+
+<table>
+	<tbody>
+		<tr>
+			<td>
+				<h2>@Model.CityName</h2>
+				<h4 class="text-dark-grey">@Model.DateAndTime.ToString("t")</h4>
+				@if (Context.Request.Path.ToString() != $"/weather/{Model.CityUniqueCode}")
+				{
+					<a href="/weather/@Model.CityUniqueCode">Details</a>
+				}else
+				{
+				<h4 class="text-dark-grey">@Model.DateAndTime.ToString("dd/MMM/yyyy")</h4>
+				}
+			</td>
+			<td class="border-left padding-left margin-left">
+				<h1>@Model.TemperatureFahrenheint <span class="text-grey">°F</span></h1>
+			</td>
+		</tr>
+	</tbody>
+</table>

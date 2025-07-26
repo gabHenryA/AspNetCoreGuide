@@ -1,0 +1,6 @@
+{
+    "weather": {
+        "ClientID": "Client from appsettingsDevelopment.json",
+        "ClientSecret": "ClientSecret from appsettingsDevelopment.json"
+    }
+}

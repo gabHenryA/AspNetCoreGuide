@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\ConfigurationExercise1\\ConfigurationExercise1\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ConfigurationExercise1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ConfigurationExercise1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ConfigurationExercise1.props",
+      "PackagePath": "build\\ConfigurationExercise1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ConfigurationExercise1.props",
+      "PackagePath": "buildMultiTargeting\\ConfigurationExercise1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ConfigurationExercise1.props",
+      "PackagePath": "buildTransitive\\ConfigurationExercise1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "nY8oYuznudKgm90q6m9qjj+ZCVa4eg/zxG6U/+yLtMo=",
+  "Source": "IActionResultExample",
+  "BasePath": "_content/IActionResultExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IActionResultExample\\wwwroot",
+      "Source": "IActionResultExample",
+      "ContentRoot": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\IActionResultExample\\wwwroot\\",
+      "BasePath": "_content/IActionResultExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\IActionResultExample\\wwwroot\\Ficha.pdf",
+      "SourceId": "IActionResultExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\IActionResultExample\\wwwroot\\",
+      "BasePath": "_content/IActionResultExample",
+      "RelativePath": "Ficha#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ykpjuwhmv",
+      "Integrity": "tV6BI17A4mmsylCRVo4gEnI7N9MIEk3gecnJJ1aeThs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Ficha.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Ficha.3ykpjuwhmv.pdf",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\IActionResultExample\\wwwroot\\Ficha.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1594562"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tV6BI17A4mmsylCRVo4gEnI7N9MIEk3gecnJJ1aeThs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Sep 2023 04:13:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ykpjuwhmv"
+        },
+        {
+          "Name": "label",
+          "Value": "Ficha.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tV6BI17A4mmsylCRVo4gEnI7N9MIEk3gecnJJ1aeThs="
+        }
+      ]
+    },
+    {
+      "Route": "Ficha.pdf",
+      "AssetFile": "C:\\Users\\smo computadores\\Documents\\PDE\\Programação\\CSHARP\\AspNetCore9Udemy\\IActionResultExample\\IActionResultExample\\wwwroot\\Ficha.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1594562"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tV6BI17A4mmsylCRVo4gEnI7N9MIEk3gecnJJ1aeThs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 09 Sep 2023 04:13:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tV6BI17A4mmsylCRVo4gEnI7N9MIEk3gecnJJ1aeThs="
+        }
+      ]
+    }
+  ]
+}

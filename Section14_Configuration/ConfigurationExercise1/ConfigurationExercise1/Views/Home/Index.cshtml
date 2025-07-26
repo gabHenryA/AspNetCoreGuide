@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Configuration</title>
+    <link href="~/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+
+		<h1>Social Media Links</h1>
+        
+        <div class="page-content">
+
+                <a class="box " href="@ViewBag.Facebook">Facebook</a>
+
+                <environment exclude="Development">
+                    <a class="box" href="@ViewBag.Instagram">Instagram</a>
+                </environment>
+
+                <a class="box" href="@ViewBag.Twitter">Twitter</a>
+
+                <a class="box" href="@ViewBag.Youtube">Youtube</a>
+
+        </div>
+    </div>
+</body>
+</html>

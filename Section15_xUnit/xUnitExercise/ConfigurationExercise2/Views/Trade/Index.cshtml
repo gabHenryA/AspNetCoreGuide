@@ -1,0 +1,31 @@
+﻿@model StockTrade
+
+<div class="page-content">
+
+	<form method="post">
+		<h3>
+			<i class="fa-solid fa-money-bill-trend-up"></i>
+			Stocks
+		</h3>
+
+		<div class="box">
+			<h2 class="text-blue">@Model.StockName <span>(@Model.StockSymbol)</span></h2>
+			<h1><span class="text-grey">$</span> <span class="price">@Model.Price.ToString()</span></h1>
+		</div>
+
+		<input type="hidden" name="StockSymbol" id="StockSymbol" value="@Model.StockSymbol" />
+		<input type="hidden" id="FinnhubToken" value="@ViewBag.FinnhubToken" />
+	</form>
+
+
+
+	@section Scripts {
+
+		@* import the FinnhubScript.js file to update the price *@
+		<script src="~/Scripts/StockPrice.js">
+		</script>
+	}
+
+
+
+</div>

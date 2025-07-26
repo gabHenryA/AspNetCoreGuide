@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\layoutviewexample\\layoutviewexample\\views\\shared\\_productslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|solutionrelative:layoutviewexample\\views\\shared\\_productslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\layoutviewexample\\layoutviewexample\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|solutionrelative:layoutviewexample\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\layoutviewexample\\layoutviewexample\\views\\products\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|solutionrelative:layoutviewexample\\views\\products\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\layoutviewexample\\layoutviewexample\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|solutionrelative:layoutviewexample\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\layoutviewexample\\layoutviewexample\\views\\products\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|solutionrelative:layoutviewexample\\views\\products\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\layoutviewexample\\layoutviewexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|solutionrelative:layoutviewexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\layoutviewexample\\layoutviewexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|solutionrelative:layoutviewexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\layoutviewexample\\layoutviewexample\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|solutionrelative:layoutviewexample\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\layoutviewexample\\layoutviewexample\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|solutionrelative:layoutviewexample\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\layoutviewexample\\layoutviewexample\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|solutionrelative:layoutviewexample\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\layoutviewexample\\layoutviewexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|solutionrelative:layoutviewexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\layoutviewexample\\layoutviewexample\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|solutionrelative:layoutviewexample\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\layoutviewexample\\layoutviewexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|solutionrelative:layoutviewexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\layoutviewexample\\layoutviewexample\\layoutviewexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|solutionrelative:layoutviewexample\\layoutviewexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcore9udemy\\layoutviewexample\\layoutviewexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C5E10A-1181-425F-99DB-F8E02966F33F}|LayoutViewExample\\LayoutViewExample.csproj|solutionrelative:layoutviewexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ProductsLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Shared\\_ProductsLayout.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewExample\\Views\\Shared\\_ProductsLayout.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Shared\\_ProductsLayout.cshtml",
+              "RelativeToolTip": "LayoutViewExample\\Views\\Shared\\_ProductsLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T01:34:54.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Products\\Search.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewExample\\Views\\Products\\Search.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Products\\Search.cshtml",
+              "RelativeToolTip": "LayoutViewExample\\Views\\Products\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T17:43:22.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_MasterLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewExample\\Views\\Shared\\_MasterLayout.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeToolTip": "LayoutViewExample\\Views\\Shared\\_MasterLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T01:26:43.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Products\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewExample\\Views\\Products\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Products\\_ViewStart.cshtml",
+              "RelativeToolTip": "LayoutViewExample\\Views\\Products\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T01:29:35.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewExample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LayoutViewExample\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T16:17:25.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LayoutViewExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T17:30:54.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewExample\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "LayoutViewExample\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T17:41:46.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Products\\Order.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewExample\\Views\\Products\\Order.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Products\\Order.cshtml",
+              "RelativeToolTip": "LayoutViewExample\\Views\\Products\\Order.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T17:44:04.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LayoutViewExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T04:20:36.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewExample\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "LayoutViewExample\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T17:33:18.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "LayoutViewExample\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "LayoutViewExample\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T17:40:05.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "LayoutViewExample\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "LayoutViewExample\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:24:34.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LayoutViewExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LayoutViewExample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:21:29.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LayoutViewExample.csproj",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\LayoutViewExample.csproj",
+              "RelativeDocumentMoniker": "LayoutViewExample\\LayoutViewExample.csproj",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\LayoutViewExample.csproj",
+              "RelativeToolTip": "LayoutViewExample\\LayoutViewExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T17:20:42.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Program.cs",
+              "RelativeDocumentMoniker": "LayoutViewExample\\Program.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCore9Udemy\\LayoutViewExample\\LayoutViewExample\\Program.cs",
+              "RelativeToolTip": "LayoutViewExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:16:14.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
