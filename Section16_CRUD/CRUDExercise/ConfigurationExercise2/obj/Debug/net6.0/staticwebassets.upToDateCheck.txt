@@ -1,0 +1,3 @@
+wwwroot\Scripts\StockPrice.js
+wwwroot\StockPriceUpdate.js
+wwwroot\StyleSheet.css
