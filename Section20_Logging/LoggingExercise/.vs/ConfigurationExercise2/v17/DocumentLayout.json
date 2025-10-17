@@ -1,0 +1,790 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\configurationexercise2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\configurationexercise2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D213E42E-5E48-4EA3-BF12-02273471B051}|Repositories\\Repositories.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\repositories\\finnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D213E42E-5E48-4EA3-BF12-02273471B051}|Repositories\\Repositories.csproj|solutionrelative:repositories\\finnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\appsettings.test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\appsettings.test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9ABAB3-BEB6-436C-B3AC-4E0782CE4F44}|StockTests\\StockTests.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\stocktests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9ABAB3-BEB6-436C-B3AC-4E0782CE4F44}|StockTests\\StockTests.csproj|solutionrelative:stocktests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smo computadores\\AppData\\Roaming\\Microsoft\\UserSecrets\\5dcd25b6-f0e7-4da5-aaf1-448c5e302c86\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9C5235-F890-41D1-A30D-62748B337919}|Entities\\Entities.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\entities\\stockmarketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9C5235-F890-41D1-A30D-62748B337919}|Entities\\Entities.csproj|solutionrelative:entities\\stockmarketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9C5235-F890-41D1-A30D-62748B337919}|Entities\\Entities.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\entities\\sellorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9C5235-F890-41D1-A30D-62748B337919}|Entities\\Entities.csproj|solutionrelative:entities\\sellorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9ABAB3-BEB6-436C-B3AC-4E0782CE4F44}|StockTests\\StockTests.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\stocktests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9ABAB3-BEB6-436C-B3AC-4E0782CE4F44}|StockTests\\StockTests.csproj|solutionrelative:stocktests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9ABAB3-BEB6-436C-B3AC-4E0782CE4F44}|StockTests\\StockTests.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\stocktests\\stocktests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B9ABAB3-BEB6-436C-B3AC-4E0782CE4F44}|StockTests\\StockTests.csproj|solutionrelative:stocktests\\stocktests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009C0F31-EE46-49A1-AEB3-DBF9E1CE5BC4}|Services\\Services.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{009C0F31-EE46-49A1-AEB3-DBF9E1CE5BC4}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\views\\stocks\\explore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\views\\stocks\\explore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\views\\shared\\components\\selectedstock\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\views\\shared\\components\\selectedstock\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D213E42E-5E48-4EA3-BF12-02273471B051}|Repositories\\Repositories.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D213E42E-5E48-4EA3-BF12-02273471B051}|Repositories\\Repositories.csproj|solutionrelative:repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\viewcomponents\\selectedstockviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\viewcomponents\\selectedstockviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB196FF8-C0B1-4EEF-B9CC-D8A3F7885979}|RepositoryCon\\RepositoryCon.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\repositorycon\\ifinnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB196FF8-C0B1-4EEF-B9CC-D8A3F7885979}|RepositoryCon\\RepositoryCon.csproj|solutionrelative:repositorycon\\ifinnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31A7318-64F2-45F4-BBBA-EA718142B6D3}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D31A7318-64F2-45F4-BBBA-EA718142B6D3}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9C5235-F890-41D1-A30D-62748B337919}|Entities\\Entities.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9C5235-F890-41D1-A30D-62748B337919}|Entities\\Entities.csproj|solutionrelative:entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31A7318-64F2-45F4-BBBA-EA718142B6D3}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\servicecontracts\\dto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31A7318-64F2-45F4-BBBA-EA718142B6D3}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31A7318-64F2-45F4-BBBA-EA718142B6D3}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\servicecontracts\\dto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31A7318-64F2-45F4-BBBA-EA718142B6D3}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31A7318-64F2-45F4-BBBA-EA718142B6D3}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\servicecontracts\\dto\\iorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31A7318-64F2-45F4-BBBA-EA718142B6D3}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\iorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\wwwroot\\stockpriceupdate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\wwwroot\\stockpriceupdate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31A7318-64F2-45F4-BBBA-EA718142B6D3}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\servicecontracts\\dto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31A7318-64F2-45F4-BBBA-EA718142B6D3}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9C5235-F890-41D1-A30D-62748B337919}|Entities\\Entities.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\entities\\migrations\\20250910022807_initial].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9C5235-F890-41D1-A30D-62748B337919}|Entities\\Entities.csproj|solutionrelative:entities\\migrations\\20250910022807_initial].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31A7318-64F2-45F4-BBBA-EA718142B6D3}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\servicecontracts\\dto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31A7318-64F2-45F4-BBBA-EA718142B6D3}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\BuyOrderRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\IFinnhubService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Service\\FinnhubService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|c:\\users\\smo computadores\\documents\\pde\\programa\u00E7\u00E3o\\csharp\\aspnetcoreguide\\aspnetcoreguide\\section20_logging\\loggingexercise\\configurationexercise2\\wwwroot\\scripts\\stockprice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC25BCFD-34A2-4CA8-BC2B-34C9972EAB3A}|ConfigurationExercise2\\ConfigurationExercise2.csproj|solutionrelative:configurationexercise2\\wwwroot\\scripts\\stockprice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Service\\StockService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Models\\BuyOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\IStockService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\SellOrderResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\SellOrderRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\BuyOrderResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Service\\Helpers\\ValidationHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Models\\SellOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Models\\CustomValidators\\MinimumOrderDateValidatorAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\Controllers\\TradeController.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "ConfigurationExercise2\\Controllers\\TradeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwCYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:26:32.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigurationExercise2",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\ConfigurationExercise2.csproj",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\ConfigurationExercise2.csproj",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\ConfigurationExercise2.csproj",
+              "RelativeToolTip": "ConfigurationExercise2\\ConfigurationExercise2.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-17T04:10:31.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Program.cs",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\Program.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Program.cs",
+              "RelativeToolTip": "ConfigurationExercise2\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:57:03.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\appsettings.json",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\appsettings.json",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\appsettings.json",
+              "RelativeToolTip": "ConfigurationExercise2\\appsettings.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T00:58:36.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinnhubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\Repositories\\FinnhubRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FinnhubRepository.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\Repositories\\FinnhubRepository.cs",
+              "RelativeToolTip": "Repositories\\FinnhubRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T21:06:20.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Test.json",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\appsettings.Test.json",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\appsettings.Test.json",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\appsettings.Test.json",
+              "RelativeToolTip": "ConfigurationExercise2\\appsettings.Test.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T23:41:42.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\Controllers\\StocksController.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "ConfigurationExercise2\\Controllers\\StocksController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwBsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T02:43:55.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\StockTests\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "StockTests\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\StockTests\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "StockTests\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T23:01:46.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\AppData\\Roaming\\Microsoft\\UserSecrets\\5dcd25b6-f0e7-4da5-aaf1-448c5e302c86\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\5dcd25b6-f0e7-4da5-aaf1-448c5e302c86\\secrets.json",
+              "ToolTip": "C:\\Users\\smo computadores\\AppData\\Roaming\\Microsoft\\UserSecrets\\5dcd25b6-f0e7-4da5-aaf1-448c5e302c86\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\5dcd25b6-f0e7-4da5-aaf1-448c5e302c86\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T23:32:11.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TradingOptions.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\TradingOptions.cs",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\TradingOptions.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\TradingOptions.cs",
+              "RelativeToolTip": "ConfigurationExercise2\\TradingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T04:10:01.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StockMarketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\Entities\\StockMarketDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\StockMarketDbContext.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\Entities\\StockMarketDbContext.cs",
+              "RelativeToolTip": "Entities\\StockMarketDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T01:14:16.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SellOrder.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\Entities\\SellOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\SellOrder.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\Entities\\SellOrder.cs",
+              "RelativeToolTip": "Entities\\SellOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T06:12:42.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\StockTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "StockTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\StockTests\\UnitTest1.cs",
+              "RelativeToolTip": "StockTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:22:42.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StockTests.csproj",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\StockTests\\StockTests.csproj",
+              "RelativeDocumentMoniker": "StockTests\\StockTests.csproj",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\StockTests\\StockTests.csproj",
+              "RelativeToolTip": "StockTests\\StockTests.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T22:03:11.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-10T23:54:55.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ConfigurationExercise2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T03:40:12.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "RelativeToolTip": "ConfigurationExercise2\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T02:16:07.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Models\\Stock.cs",
+              "RelativeToolTip": "ConfigurationExercise2\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T02:42:38.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ConfigurationExercise2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T21:01:03.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Explore.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Views\\Stocks\\Explore.cshtml",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\Views\\Stocks\\Explore.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Views\\Stocks\\Explore.cshtml",
+              "RelativeToolTip": "ConfigurationExercise2\\Views\\Stocks\\Explore.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAIBZwEEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T02:41:15.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ConfigurationExercise2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T04:22:51.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\Repositories\\StockRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\Repositories\\StockRepository.cs",
+              "RelativeToolTip": "Repositories\\StockRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T02:29:32.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SelectedStockViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\ViewComponents\\SelectedStockViewComponent.cs",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\ViewComponents\\SelectedStockViewComponent.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\ViewComponents\\SelectedStockViewComponent.cs",
+              "RelativeToolTip": "ConfigurationExercise2\\ViewComponents\\SelectedStockViewComponent.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:35:59.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IFinnhubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\RepositoryCon\\IFinnhubRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryCon\\IFinnhubRepository.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\RepositoryCon\\IFinnhubRepository.cs",
+              "RelativeToolTip": "RepositoryCon\\IFinnhubRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T22:17:02.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServiceContracts.csproj",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeDocumentMoniker": "ServiceContracts\\ServiceContracts.csproj",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeToolTip": "ServiceContracts\\ServiceContracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T00:02:46.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SellOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T04:59:34.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BuyOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T00:37:09.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ServiceContracts\\DTO\\IOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\IOrderResponse.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ServiceContracts\\DTO\\IOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\IOrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T04:17:56.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BuyOrder.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\Entities\\BuyOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\BuyOrder.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\Entities\\BuyOrder.cs",
+              "RelativeToolTip": "Entities\\BuyOrder.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T06:12:54.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StockPriceUpdate.js",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\wwwroot\\StockPriceUpdate.js",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\wwwroot\\StockPriceUpdate.js",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\wwwroot\\StockPriceUpdate.js",
+              "RelativeToolTip": "ConfigurationExercise2\\wwwroot\\StockPriceUpdate.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-07T19:39:38.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SellOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T06:14:26.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250910022807_Initial].cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\Entities\\Migrations\\20250910022807_Initial].cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20250910022807_Initial].cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\Entities\\Migrations\\20250910022807_Initial].cs",
+              "RelativeToolTip": "Entities\\Migrations\\20250910022807_Initial].cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T02:28:08.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\wwwroot\\StyleSheet.css",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\wwwroot\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\wwwroot\\StyleSheet.css",
+              "RelativeToolTip": "ConfigurationExercise2\\wwwroot\\StyleSheet.css",
+              "ViewState": "AgIAAAMCAAAAAAAAAAAAwH4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-12T04:23:45.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BuyOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T23:58:05.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BuyOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "RelativeToolTip": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:50:02.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IFinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\IFinnhubService.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeToolTip": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\IFinnhubService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T01:05:29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Service\\FinnhubService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Service\\FinnhubService.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Service\\FinnhubService.cs",
+              "RelativeToolTip": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Service\\FinnhubService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T01:09:11.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Service\\StockService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Service\\StockService.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Service\\StockService.cs",
+              "RelativeToolTip": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Service\\StockService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:14:30.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BuyOrder.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Models\\BuyOrder.cs",
+              "RelativeDocumentMoniker": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Models\\BuyOrder.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Models\\BuyOrder.cs",
+              "RelativeToolTip": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Models\\BuyOrder.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:27:21.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IStockService.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\IStockService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\IStockService.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\IStockService.cs",
+              "RelativeToolTip": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\IStockService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:07:57.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SellOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "RelativeDocumentMoniker": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "RelativeToolTip": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:51:11.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SellOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "RelativeToolTip": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:50:26.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BuyOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "RelativeDocumentMoniker": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "RelativeToolTip": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:50:56.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Service\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Service\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Service\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Service\\Helpers\\ValidationHelper.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:42:26.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SellOrder.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Models\\SellOrder.cs",
+              "RelativeDocumentMoniker": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Models\\SellOrder.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Models\\SellOrder.cs",
+              "RelativeToolTip": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Models\\SellOrder.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:42:18.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MinimumOrderDateValidatorAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Models\\CustomValidators\\MinimumOrderDateValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Models\\CustomValidators\\MinimumOrderDateValidatorAttribute.cs",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Models\\CustomValidators\\MinimumOrderDateValidatorAttribute.cs",
+              "RelativeToolTip": "..\\..\\Section16_CRUD\\CRUDExercise\\ConfigurationExercise2\\Models\\CustomValidators\\MinimumOrderDateValidatorAttribute.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:33:16.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StockPrice.js",
+              "DocumentMoniker": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\wwwroot\\Scripts\\StockPrice.js",
+              "RelativeDocumentMoniker": "ConfigurationExercise2\\wwwroot\\Scripts\\StockPrice.js",
+              "ToolTip": "C:\\Users\\smo computadores\\Documents\\PDE\\Programa\u00E7\u00E3o\\CSHARP\\AspNetCoreGuide\\AspNetCoreGuide\\Section20_Logging\\LoggingExercise\\ConfigurationExercise2\\wwwroot\\Scripts\\StockPrice.js",
+              "RelativeToolTip": "ConfigurationExercise2\\wwwroot\\Scripts\\StockPrice.js",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-07T04:31:11.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
