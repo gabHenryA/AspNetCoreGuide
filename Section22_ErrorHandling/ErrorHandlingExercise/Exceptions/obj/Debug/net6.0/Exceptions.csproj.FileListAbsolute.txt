@@ -1,0 +1,12 @@
+C:\Users\smo computadores\Documents\PDE\Programação\CSHARP\AspNetCoreGuide\AspNetCoreGuide\Section22_ErrorHandling\ErrorHandlingExercise\Exceptions\bin\Debug\net6.0\Exceptions.deps.json
+C:\Users\smo computadores\Documents\PDE\Programação\CSHARP\AspNetCoreGuide\AspNetCoreGuide\Section22_ErrorHandling\ErrorHandlingExercise\Exceptions\bin\Debug\net6.0\Exceptions.dll
+C:\Users\smo computadores\Documents\PDE\Programação\CSHARP\AspNetCoreGuide\AspNetCoreGuide\Section22_ErrorHandling\ErrorHandlingExercise\Exceptions\bin\Debug\net6.0\Exceptions.pdb
+C:\Users\smo computadores\Documents\PDE\Programação\CSHARP\AspNetCoreGuide\AspNetCoreGuide\Section22_ErrorHandling\ErrorHandlingExercise\Exceptions\obj\Debug\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smo computadores\Documents\PDE\Programação\CSHARP\AspNetCoreGuide\AspNetCoreGuide\Section22_ErrorHandling\ErrorHandlingExercise\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\smo computadores\Documents\PDE\Programação\CSHARP\AspNetCoreGuide\AspNetCoreGuide\Section22_ErrorHandling\ErrorHandlingExercise\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfo.cs
+C:\Users\smo computadores\Documents\PDE\Programação\CSHARP\AspNetCoreGuide\AspNetCoreGuide\Section22_ErrorHandling\ErrorHandlingExercise\Exceptions\obj\Debug\net6.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\smo computadores\Documents\PDE\Programação\CSHARP\AspNetCoreGuide\AspNetCoreGuide\Section22_ErrorHandling\ErrorHandlingExercise\Exceptions\obj\Debug\net6.0\Exceptions.sourcelink.json
+C:\Users\smo computadores\Documents\PDE\Programação\CSHARP\AspNetCoreGuide\AspNetCoreGuide\Section22_ErrorHandling\ErrorHandlingExercise\Exceptions\obj\Debug\net6.0\Exceptions.dll
+C:\Users\smo computadores\Documents\PDE\Programação\CSHARP\AspNetCoreGuide\AspNetCoreGuide\Section22_ErrorHandling\ErrorHandlingExercise\Exceptions\obj\Debug\net6.0\refint\Exceptions.dll
+C:\Users\smo computadores\Documents\PDE\Programação\CSHARP\AspNetCoreGuide\AspNetCoreGuide\Section22_ErrorHandling\ErrorHandlingExercise\Exceptions\obj\Debug\net6.0\Exceptions.pdb
+C:\Users\smo computadores\Documents\PDE\Programação\CSHARP\AspNetCoreGuide\AspNetCoreGuide\Section22_ErrorHandling\ErrorHandlingExercise\Exceptions\obj\Debug\net6.0\ref\Exceptions.dll

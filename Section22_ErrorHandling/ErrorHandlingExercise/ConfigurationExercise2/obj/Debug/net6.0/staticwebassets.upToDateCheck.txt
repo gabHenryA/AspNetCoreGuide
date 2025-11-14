@@ -1,0 +1,5 @@
+wwwroot\error.svg
+wwwroot\Rotativa\wkhtmltopdf.exe
+wwwroot\Scripts\StockPrice.js
+wwwroot\StockPriceUpdate.js
+wwwroot\StyleSheet.css
